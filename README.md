@@ -3,8 +3,8 @@
 welcome to my hotlist!
 </h1>
 <h3>
-<img src="download.jpg">&emsp;&emsp;<img src="download-1.jpg">&emsp;&emsp;<img src="Youtube.png">&emsp;&emsp;<img src="mario.png">
+<img src="download.jpg"> <img src="download-1.jpg"> <img src="Youtube.png">
 </h3>
-<h4> <a href="https://classroom.google.com/u/0/h">classroom</a> <a href="https://docs.google.com/document/u/0/?tgif=d">Google Docs</a> <a href="https://www.youtube.com/">youtube</a><a href="https://supermarioemulator.com/">mario</a>
+<h4> <a href="https://classroom.google.com/u/0/h">classroom</a> <a href="https://docs.google.com/document/u/0/?tgif=d">Google Docs</a> <a href="https://www.youtube.com/">youtube</a>
 </h4>
 </body>
