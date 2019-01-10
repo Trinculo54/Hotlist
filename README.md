@@ -1,4 +1,9 @@
 <head>
+<nav>
+  <ul>
+    <li><a href="#">Navigation</a></li>
+  </ul>
+</nav>
 <body><h1>
 welcome to my hotlist!
 </h1>
