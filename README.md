@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head><title>jamie's hotlist</title>
-<style>
-body{background:white;}
-h1{color:black;font-family:"Gill Sans";font-size:80px;}
-
-</style>
 <head>
 <body><h1>
 welcome to my hotlist!
