@@ -1,7 +1,7 @@
 <head>
 <nav>
   <ul>
-    <li><a href="page2">index.html</a></li>
+    <li><a href="index.md">index.html</a></li>
   </ul>
 </nav>
 <body><h1>
