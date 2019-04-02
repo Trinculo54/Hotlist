@@ -116,7 +116,7 @@ function closeNav() {
  </center></button>
  </h2>
  <center><div class="footer" role="contentinfo">
-<p><a href="index.html">Page 1</a><span> | </span><a href="readme.html">Page 2</a><span> | </span><a href="School.html">School links</a><span> | </span><a href="/BUTTON.html">Themes</a></p>
+<p><a href="index.html">Page 1</a><span> | </span><a href="README.html">Page 2</a><span> | </span><a href="School.html">School links</a><span> | </span><a href="/BUTTON.html">Themes</a></p>
 <p>©2019 Jameshotlist.tk. All rights reserved.</p>
 <p>When using krunker in shcool use Hotspot shield Vpn</p>
 </div>
